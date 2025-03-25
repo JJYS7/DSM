@@ -1,0 +1,7 @@
+run = "npm run dev"
+
+[env]
+NODE_ENV = "development"
+
+[meta]
+reloadOnSave = true
